@@ -55,7 +55,7 @@ def go(config: DictConfig):
     if "check_data" in steps_to_execute:
 
         _ = mlflow.run(
-            os.path.join(root_path, "preprocess"),
+            os.path.join(root_path, "check_data"),
             "main",
             parameters={
                 "reference_artifact": config["data"]["reference_dataset"],
@@ -68,7 +68,7 @@ def go(config: DictConfig):
 
         ## YOUR CODE HERE: call the segregate step
         _ = mlflow.run(
-            os.path.join(root_path, "download"),
+            os.path.join(root_path, "segregate"),
             "main",
             parameters={
                 "input_artifact": "preprocessed_data.csv:latest",
@@ -88,7 +88,7 @@ def go(config: DictConfig):
 
         ## YOUR CODE HERE: call the random_forest step
         _ = mlflow.run(
-            os.path.join(root_path, "download"),
+            os.path.join(root_path, "random_forest"),
             "main",
             parameters={
                 "train_data": "data_train.csv:latest",
@@ -104,7 +104,7 @@ def go(config: DictConfig):
 
         ## YOUR CODE HERE: call the evaluate step
         _ = mlflow.run(
-            os.path.join(root_path, "download"),
+            os.path.join(root_path, "evaluate"),
             "main",
             parameters={
                 "model_export": config["random_forest_pipeline"]["export_artifact"],
