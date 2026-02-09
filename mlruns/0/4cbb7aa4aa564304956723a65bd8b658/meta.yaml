@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/4cbb7aa4aa564304956723a65bd8b658/artifacts
+end_time: 1770629147210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cbb7aa4aa564304956723a65bd8b658
+run_name: gregarious-moose-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770628940308
+status: 3
+tags: []
+user_id: eorakcioglu

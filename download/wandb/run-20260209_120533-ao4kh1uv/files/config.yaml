@@ -1,0 +1,52 @@
+_wandb:
+    value:
+        cli_version: 0.24.0
+        e:
+            y53b58i4magp3ul516ijbmg9xarupf33:
+                apple:
+                    ecpuCores: 6
+                    gpuCores: 18
+                    memoryGb: 36
+                    name: Unknown
+                    pcpuCores: 6
+                    ramTotalBytes: "38654705664"
+                    swapTotalBytes: "2147483648"
+                args:
+                    - --file_url
+                    - https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true
+                    - --artifact_name
+                    - raw_data.parquet
+                    - --artifact_type
+                    - raw_data
+                    - --artifact_description
+                    - Data as downloaded
+                codePath: download/download_data.py
+                codePathLocal: download_data.py
+                cpu_count: 12
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "181795676160"
+                executable: /opt/miniconda3/envs/mlflow-6020c6165ff66772b09c5cc54c9af39b0c9c44b4/bin/python
+                git:
+                    commit: 31f527cef0cb86db17f8dd6b32269c9dcd0846a9
+                    remote: https://github.com/EbruOrakcioglu/genre_classification.git
+                host: NSN-EBRUO2.local
+                memory:
+                    total: "38654705664"
+                os: macOS-26.2-x86_64-i386-64bit-Mach-O
+                program: /Users/eorakcioglu/Desktop/projects/udacity/genre_classification/download/download_data.py
+                python: CPython 3.13.12
+                root: /Users/eorakcioglu/Desktop/projects/udacity/genre_classification/download
+                startedAt: "2026-02-09T09:05:33.068220Z"
+                writerId: y53b58i4magp3ul516ijbmg9xarupf33
+        m: []
+        python_version: 3.13.12
+        t:
+            "3":
+                - 2
+            "4": 3.13.12
+            "5": 0.24.0
+            "12": 0.24.0
+            "13": darwin-x86_64

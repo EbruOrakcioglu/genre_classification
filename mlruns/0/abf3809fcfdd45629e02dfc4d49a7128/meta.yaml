@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/abf3809fcfdd45629e02dfc4d49a7128/artifacts
+end_time: 1770628888818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abf3809fcfdd45629e02dfc4d49a7128
+run_name: spiffy-grouse-784
+run_uuid: abf3809fcfdd45629e02dfc4d49a7128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770628626542
+status: 3
+tags: []
+user_id: eorakcioglu

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/29b4c6bf8d47426697ba828111fa1cf6/artifacts
+end_time: 1770627938446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29b4c6bf8d47426697ba828111fa1cf6
+run_name: debonair-bug-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770627918870
+status: 4
+tags: []
+user_id: eorakcioglu

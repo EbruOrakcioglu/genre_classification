@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/c5b133a96acb482aa1d4d2862c876cfd/artifacts
+end_time: 1770627484723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5b133a96acb482aa1d4d2862c876cfd
+run_name: rumbling-goat-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770627399438
+status: 4
+tags: []
+user_id: eorakcioglu

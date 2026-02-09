@@ -1,0 +1,60 @@
+_wandb:
+    value:
+        cli_version: 0.24.0
+        e:
+            ddz84skqzyftlob81ofc1hklqae3rwoq:
+                apple:
+                    ecpuCores: 6
+                    gpuCores: 18
+                    memoryGb: 36
+                    name: Unknown
+                    pcpuCores: 6
+                    ramTotalBytes: "38654705664"
+                    swapTotalBytes: "2147483648"
+                args:
+                    - --input_artifact
+                    - preprocessed_data.csv:latest
+                    - --artifact_root
+                    - data
+                    - --artifact_type
+                    - segregated_data
+                    - --test_size
+                    - "0.3"
+                    - --random_state
+                    - "42"
+                    - --stratify
+                    - genre
+                codePath: segregate/run.py
+                codePathLocal: run.py
+                cpu_count: 12
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "994662584320"
+                        used: "183737688064"
+                executable: /opt/miniconda3/envs/mlflow-fffcf19dff5f62f9470b9cf95e5eaac3bc5934ff/bin/python
+                git:
+                    commit: 31f527cef0cb86db17f8dd6b32269c9dcd0846a9
+                    remote: https://github.com/EbruOrakcioglu/genre_classification.git
+                host: NSN-EBRUO2.local
+                memory:
+                    total: "38654705664"
+                os: macOS-26.2-x86_64-i386-64bit-Mach-O
+                program: /Users/eorakcioglu/Desktop/projects/udacity/genre_classification/segregate/run.py
+                python: CPython 3.13.12
+                root: /Users/eorakcioglu/Desktop/projects/udacity/genre_classification/segregate
+                startedAt: "2026-02-09T09:21:06.673422Z"
+                writerId: ddz84skqzyftlob81ofc1hklqae3rwoq
+        m: []
+        python_version: 3.13.12
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "4": 3.13.12
+            "5": 0.24.0
+            "12": 0.24.0
+            "13": darwin-x86_64

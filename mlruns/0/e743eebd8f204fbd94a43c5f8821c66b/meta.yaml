@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/e743eebd8f204fbd94a43c5f8821c66b/artifacts
+end_time: 1770627351572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e743eebd8f204fbd94a43c5f8821c66b
+run_name: skittish-snipe-311
+run_uuid: e743eebd8f204fbd94a43c5f8821c66b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770627299568
+status: 4
+tags: []
+user_id: eorakcioglu

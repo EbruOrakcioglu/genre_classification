@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/3fb8e6e214ff4cbc8436daf9d0a59178/artifacts
+end_time: 1770628516161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fb8e6e214ff4cbc8436daf9d0a59178
+run_name: agreeable-vole-518
+run_uuid: 3fb8e6e214ff4cbc8436daf9d0a59178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770628365369
+status: 4
+tags: []
+user_id: eorakcioglu

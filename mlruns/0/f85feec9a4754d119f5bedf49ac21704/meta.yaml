@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/f85feec9a4754d119f5bedf49ac21704/artifacts
+end_time: 1770629431626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f85feec9a4754d119f5bedf49ac21704
+run_name: adventurous-wolf-965
+run_uuid: f85feec9a4754d119f5bedf49ac21704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770629425080
+status: 4
+tags: []
+user_id: eorakcioglu

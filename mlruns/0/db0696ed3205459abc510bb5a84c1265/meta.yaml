@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/db0696ed3205459abc510bb5a84c1265/artifacts
+end_time: 1770627485046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db0696ed3205459abc510bb5a84c1265
+run_name: stately-duck-851
+run_uuid: db0696ed3205459abc510bb5a84c1265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770627394202
+status: 4
+tags: []
+user_id: eorakcioglu

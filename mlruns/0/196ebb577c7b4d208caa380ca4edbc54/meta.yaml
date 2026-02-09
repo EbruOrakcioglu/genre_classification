@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/196ebb577c7b4d208caa380ca4edbc54/artifacts
+end_time: 1770628673320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 196ebb577c7b4d208caa380ca4edbc54
+run_name: nosy-skunk-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770628657512
+status: 3
+tags: []
+user_id: eorakcioglu

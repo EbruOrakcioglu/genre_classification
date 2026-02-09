@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/7de7d854cbd94cb493a79ed3f4d99d02/artifacts
+end_time: 1770628148880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7de7d854cbd94cb493a79ed3f4d99d02
+run_name: colorful-vole-241
+run_uuid: 7de7d854cbd94cb493a79ed3f4d99d02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770627990179
+status: 3
+tags: []
+user_id: eorakcioglu

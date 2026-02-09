@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/8af08cb6fb364904944cd056a56a2e18/artifacts
+end_time: 1770629457493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8af08cb6fb364904944cd056a56a2e18
+run_name: adaptable-doe-449
+run_uuid: 8af08cb6fb364904944cd056a56a2e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770629451400
+status: 4
+tags: []
+user_id: eorakcioglu

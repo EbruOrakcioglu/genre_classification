@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/29ae82b94ae2458587b84ab4f155edf4/artifacts
+end_time: 1770628515827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29ae82b94ae2458587b84ab4f155edf4
+run_name: beautiful-ray-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770628371624
+status: 4
+tags: []
+user_id: eorakcioglu

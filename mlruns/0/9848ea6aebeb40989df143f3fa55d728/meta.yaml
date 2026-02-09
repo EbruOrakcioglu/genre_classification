@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/eorakcioglu/Desktop/projects/udacity/genre_classification/mlruns/0/9848ea6aebeb40989df143f3fa55d728/artifacts
+end_time: 1770628287294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9848ea6aebeb40989df143f3fa55d728
+run_name: awesome-seal-479
+run_uuid: 9848ea6aebeb40989df143f3fa55d728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770628163653
+status: 4
+tags: []
+user_id: eorakcioglu

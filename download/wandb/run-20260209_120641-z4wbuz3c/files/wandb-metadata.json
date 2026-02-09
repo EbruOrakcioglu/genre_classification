@@ -1,0 +1,47 @@
+{
+  "os":  "macOS-26.2-x86_64-i386-64bit-Mach-O",
+  "python":  "CPython 3.13.12",
+  "startedAt":  "2026-02-09T09:06:41.591472Z",
+  "args":  [
+    "--file_url",
+    "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+    "--artifact_name",
+    "raw_data.parquet",
+    "--artifact_type",
+    "raw_data",
+    "--artifact_description",
+    "Data as downloaded"
+  ],
+  "program":  "/Users/eorakcioglu/Desktop/projects/udacity/genre_classification/download/download_data.py",
+  "codePath":  "download/download_data.py",
+  "codePathLocal":  "download_data.py",
+  "git":  {
+    "remote":  "https://github.com/EbruOrakcioglu/genre_classification.git",
+    "commit":  "31f527cef0cb86db17f8dd6b32269c9dcd0846a9"
+  },
+  "email":  "ebru95orakcioglu@gmail.com",
+  "root":  "/Users/eorakcioglu/Desktop/projects/udacity/genre_classification/download",
+  "host":  "NSN-EBRUO2.local",
+  "executable":  "/opt/miniconda3/envs/mlflow-6020c6165ff66772b09c5cc54c9af39b0c9c44b4/bin/python",
+  "cpu_count":  12,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "181810798592"
+    }
+  },
+  "memory":  {
+    "total":  "38654705664"
+  },
+  "apple":  {
+    "name":  "Unknown",
+    "ecpuCores":  6,
+    "pcpuCores":  6,
+    "gpuCores":  18,
+    "memoryGb":  36,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "38654705664"
+  },
+  "writerId":  "f0wlm53vylqn3ik79xq06rpi92joaxk7"
+}
